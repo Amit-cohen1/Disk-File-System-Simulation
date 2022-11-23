@@ -4,7 +4,7 @@ Author: Amit Cohen
 
 ==Description==
 
-In this exercise, the user will enter a number between 1-8 to preform action simualting the disk management.
+In this project, the user will enter a number between 1-8 to preform action simualting the disk management.
 
 We will use the different methods declared in the exercise demands to excute the different commands.
 We will allow to use the disk as close as we can simulate to the real Management disk. I choose to use in the vector and pointer to array 
@@ -28,6 +28,6 @@ It depands wich option we choose. We follow the order according to the number an
 ==Output:==
 Depand on the request. Mostly you can see the output using the 1 option that show the current state of disk.
 
-The README was written at 2am sorry about my English :)
+
 
 
